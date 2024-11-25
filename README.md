@@ -1,4 +1,4 @@
-# Updating-File-Of-IP-Addresses-With-Python
+# Updating File Of IP Addresses With Python
 ## Description
 My organization has restricted access to specific information and resources to only allow IPs contained in an allowed IP addresses list. This list is contained in the file: ```allow_list.txt```. Another list identified as: ```remove_list``` has been created for IP addresses that are no longer allowed to have access to this content and need to be removed from the allowed IP addresses list.
 ## Overview
